@@ -1,2 +1,8 @@
-# Predicting-floor-level-for-911-Calls-with-Neural-Networks-and-Smartphone-Sensor-Data
-Code + data for predicting floor location from smartphone sensor data
+# 911_floor
+This is the blind review code for the paper. It is not polished for open-source but contains all the logs and functionality in the paper
+
+# Install package
+```bash
+pip install -e .
+```
+
